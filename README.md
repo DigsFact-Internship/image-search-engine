@@ -17,3 +17,6 @@ An image search engine works by employing a combination of techniques and algori
 6) Continuous Improvement: Image search engines often leverage machine learning and artificial intelligence to continuously improve their performance. They learn from user interactions, feedback, and user-generated data to enhance search accuracy, relevance, and user satisfaction over time.
 
 Overall, image search engines combine visual analysis, indexing, query processing, ranking algorithms, and user-centric features to provide users with a comprehensive and efficient way to search and discover images online.
+
+## How to build it
+[](https://raw.githubusercontent.com/MoAmrYehia/res/master/vector-search-diagram-cropped-white-space.png)
