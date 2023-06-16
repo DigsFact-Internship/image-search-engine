@@ -20,3 +20,5 @@ Overall, image search engines combine visual analysis, indexing, query processin
 
 ## How to build it
 ![](https://raw.githubusercontent.com/MoAmrYehia/res/master/vector-search-diagram-cropped-white-space.png)
+
+1) Use this [link](https://www.kaggle.com/datasets/karimabdulnabi/fruit-classification10-class) to download the fruit dataset. 
