@@ -6,7 +6,7 @@ An image search engine works by employing a combination of techniques and algori
 
 1) Indexing: The image search engine crawls the web, scanning and analyzing images it encounters. It extracts various visual features from the images, such as color, shape, texture, and patterns. These features are then used to create an index, which is essentially a large database of image representations.
 
-2) Query Processing: When a user enters a search query or uploads an image, the search engine processes the query and extracts relevant information. For text-based queries, it identifies keywords and filters that can help match the query to images in the index. For image-based queries, it extracts visual features from the uploaded image to compare and find similar images in the index.
+2) Query Processing: When a user enters a search query or uploads an image, the search engine processes the query and extracts relevant information. Text-based queries, it identifies keywords and filters that can help match the query to images in the index. For image-based queries, it extracts visual features from the uploaded image to compare and find similar images in the index.
 
 3) Ranking and Relevance: The search engine utilizes sophisticated ranking algorithms to determine the relevance of images to the user's query. It considers factors such as keyword relevance, visual similarity, image quality, and contextual information. The engine assigns a relevance score to each image and presents the most relevant ones at the top of the search results.
 
@@ -19,4 +19,4 @@ An image search engine works by employing a combination of techniques and algori
 Overall, image search engines combine visual analysis, indexing, query processing, ranking algorithms, and user-centric features to provide users with a comprehensive and efficient way to search and discover images online.
 
 ## How to build it
-[](https://raw.githubusercontent.com/MoAmrYehia/res/master/vector-search-diagram-cropped-white-space.png)
+![](https://raw.githubusercontent.com/MoAmrYehia/res/master/vector-search-diagram-cropped-white-space.png)
